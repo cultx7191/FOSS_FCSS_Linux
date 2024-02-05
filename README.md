@@ -6,10 +6,12 @@
 - Audacious - https://audacious-media-player.org
 
 <ins>Browser</ins>
-- LibreWolf - https://librewolf.net/
+- Brave - https://brave.com/ [When needing chromium]
+- LibreWolf - https://librewolf.net/ [FireFox]
+- Tor Browser - https://www.torproject.org/
 
-<ins>Cloud Service</ins>
-- Nextcloud - https://nextcloud.com
+<ins>Clipboard Manager</ins>
+- CopyQ - https://hluk.github.io/CopyQ/
 
 <ins>Disk Space Analyzer</ins>
 - Filelight - https://apps.kde.org/filelight/
@@ -28,6 +30,7 @@
 
 <ins>File Manager</ins>
 - Dolphin - https://apps.kde.org/dolphin/
+- Spacedrive - https://www.spacedrive.com/ [Not ready yet]
 
 <ins>File Synchronization</ins>
 - Syncthing Tray - https://github.com/Martchus/syncthingtray
@@ -48,11 +51,8 @@
 <ins>Image Viewer</ins>
 - qView - https://interversehq.com/qview/
 
-<ins>Input Mapper</ins>
-- AntiMicroX - https://github.com/AntiMicroX/antimicroX
-
-<ins>Media Streaming</ins>
-- Stremio - https://www.stremio.com/ 
+<ins>Mobile Remote Control Tool</ins>
+- KDE Connect - https://kdeconnect.kde.org/
 
 <ins>Modeling</ins>
 - Blender - https://www.blender.org 
@@ -66,11 +66,11 @@
 <ins>Office Suite</ins>
 - LibreOffice - https://www.libreoffice.org 
 
+<ins>Online Streaming</ins>
+- Stremio - https://www.stremio.com/ 
+
 <ins>Password Manager</ins>
 - Bitwarden - https://bitwarden.com 
-
-<ins>PDF Arranger</ins>
-- PDF Arranger - https://github.com/pdfarranger/pdfarranger
 
 <ins>Reading</ins>
 - Calibre - https://calibre-ebook.com/download 
@@ -79,20 +79,24 @@
 <ins>Screenshot Capture</ins>
 - Spectacle - https://apps.kde.org/spectacle/
 
+<ins>Service/Workspace Manager</ins>
+- Ferdium - https://ferdium.org/
+
 <ins>System Cleaner</ins>
 - Czkawka - https://github.com/qarmin/czkawka 
 
 <ins>System Information</ins>
 - Fastfetch - https://github.com/LinusDierheimer/fastfetch
 
-<ins>Text Expander</ins>
-- Espanso - https://espanso.org/ 
-
 <ins>Text Editor</ins>
 - Kate - https://kate-editor.org/
 
+<ins>Text Expander</ins>
+- Espanso - https://espanso.org/ 
+
 <ins>Torrent Client</ins>
 - qBittorrent - https://www.qbittorrent.org 
+- WebTorrent - https://webtorrent.io/
 
 <ins>Video, Audio, Image Converter</ins>
 - Shutter Encoder - https://www.shutterencoder.com/en/ 
@@ -122,10 +126,6 @@
 
 <ins>Instant Messengers</ins>
 - Discord - https://discord.com
-- WhatsApp - https://www.whatsapp.com/
-
-<ins>Modding Repository</ins>
-- CurseForge - https://www.curseforge.com/
 
 <ins>Music Streaming</ins>
 - Spotify - https://open.spotify.com 
