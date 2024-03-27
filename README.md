@@ -80,9 +80,6 @@ Optimization
 Password Manager  
 \-Bitwarden=[https://bitwarden.com](<https://bitwarden.com>)
 
-Post-processing Injector  
-\-ReShade=[https://reshade.me](<https://reshade.me>)
-
 Reading  
 \-Calibre=[https://calibre-ebook.com/download](<https://calibre-ebook.com/download>)  
 \-YACReader=[https://www.yacreader.com/](<https://www.yacreader.com/>)
