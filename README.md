@@ -1,132 +1,164 @@
-## FOSS - Free Open Source Software
-<ins>Application Firewall</ins>
-- Portmaster - https://safing.io/ 
+# FOSS_FCSS_Linux
 
-<ins>Audio Player</ins>
-- Audacious - https://audacious-media-player.org
+FOSS - Free Open Source Software  
+  
+Application Firewall  
+\-Portmaster=[https://safing.io/](<https://safing.io/>)
 
-<ins>Browser</ins>
-- Brave - https://brave.com/ [When needing chromium]
-- LibreWolf - https://librewolf.net/ [FireFox]
+Audio Player  
+\-Audacious - [https://audacious-media-player.org](<https://audacious-media-player.org>)
 
-<ins>Clipboard Manager</ins>
-- CopyQ - https://hluk.github.io/CopyQ/
+Browser  
+\-Brave - [https://brave.com/](<https://brave.com/>) [When needing chromium]  
+\-LibreWolf - [https://librewolf.net/](<https://librewolf.net/>) [FireFox]
 
-<ins>Disk Space Analyzer</ins>
-- Filelight - https://apps.kde.org/filelight/
+Customization  
+\-Lively Wallpaper=[https://www.rocksdanister.com/lively/](<https://www.rocksdanister.com/lively/>)  
+\-TranslucentTB=[https://github.com/TranslucentTB/TranslucentTB](<https://github.com/TranslucentTB/TranslucentTB>)  
+\-WinPaletter=[https://github.com/Abdelrhman-AK/WinPaletter](<https://github.com/Abdelrhman-AK/WinPaletter>)
 
-<ins>Document Viewer</ins>
-- Okular - https://okular.kde.org 
+Clipboard Manager  
+\-CopyQ=[https://hluk.github.io/CopyQ/](<https://hluk.github.io/CopyQ/>)  
+  
+Disk Space Analyzer  
+\-Filelight=[https://apps.kde.org/filelight/](<https://apps.kde.org/filelight/>)
 
-<ins>Email/Calendar Client</ins>
-- Thunderbird - https://www.thunderbird.net/en-US/ 
+Document Viewer  
+\-Okular=[https://okular.kde.org](<https://okular.kde.org>)
 
-<ins>File Archiver</ins>
-- Ark - https://apps.kde.org/ark/
+Email/Calendar Client  
+\-Thunderbird=[https://www.thunderbird.net/en-US/](<https://www.thunderbird.net/en-US/>)
 
-<ins>File Encryption</ins>
-- Picocrypt - https://github.com/HACKERALERT/Picocrypt     
+File Archiver  
+\-Ark=[https://apps.kde.org/ark/](<https://apps.kde.org/ark/>)
 
-<ins>File Manager</ins>
-- Dolphin - https://apps.kde.org/dolphin/
-- Spacedrive - https://www.spacedrive.com/ [Not ready yet]
+File Encryption  
+\-Picocrypt=[https://github.com/HACKERALERT/Picocrypt](<https://github.com/HACKERALERT/Picocrypt>)
 
-<ins>File Synchronization</ins>
-- Syncthing Tray - https://github.com/Martchus/syncthingtray
+File Manager  
+\-Dolphin=[https://apps.kde.org/dolphin/](<https://apps.kde.org/dolphin/>)  
+\-Spacedrive=[https://www.spacedrive.com/](<https://www.spacedrive.com/>) [Not ready yet]
 
-<ins>File Transfer</ins>
-- LocalSend - https://localsend.org/#/ 
-- Sharrr - https://www.sharrr.com
+File Synchronization  
+\-Syncthing Tray=[https://github.com/Martchus/syncthingtray](<https://github.com/Martchus/syncthingtray>)
 
-<ins>Flashcard Learning</ins>
-- Anki - https://apps.ankiweb.net/ 
+File Transfer  
+\-LocalSend=[https://localsend.org/#/](<https://localsend.org/#/>)  
+\-Sharrr=[https://www.sharrr.com](<https://www.sharrr.com>)
 
-<ins>Image AI Upscaling</ins>
-- Upscayl - https://www.upscayl.org 
+Flashcard Learning  
+\-Anki=[https://apps.ankiweb.net/](<https://apps.ankiweb.net/>)
 
-<ins>Image Editor</ins>
-- Krita - https://krita.org/en/ 
+Image AI Upscaling  
+\-Upscayl=[https://www.upscayl.org](<https://www.upscayl.org>)
 
-<ins>Image Viewer</ins>
-- qView - https://interversehq.com/qview/
+Image Editor  
+\-Krita=[https://krita.org/en/](<https://krita.org/en/>)
 
-<ins>Mobile Remote Control Tool</ins>
-- KDE Connect - https://kdeconnect.kde.org/
+Image Viewer  
+\-qView=[https://interversehq.com/qview/](<https://interversehq.com/qview/>)
 
-<ins>Modeling</ins>
-- Blender - https://www.blender.org 
+Mobile Remote Control Tool  
+\-KDE Connect=[https://kdeconnect.kde.org/](<https://kdeconnect.kde.org/>)
 
-<ins>Note-taking</ins>
-- Joplin - https://joplinapp.org 
+Modeling  
+\-Blender=[https://www.blender.org](<https://www.blender.org>)
 
-<ins>Office Suite</ins>
-- LibreOffice - https://www.libreoffice.org 
+Note-taking  
+\-Notesnook=[https://notesnook.com/](<https://notesnook.com/>)
 
-<ins>Online Streaming</ins>
-- Stremio - https://www.stremio.com/ 
+Office Suite  
+\-LibreOffice=[https://www.libreoffice.org](<https://www.libreoffice.org>)
 
-<ins>Password Manager</ins>
-- Bitwarden - https://bitwarden.com 
+Online Streaming  
+\-Stremio=[https://www.stremio.com/](<https://www.stremio.com/>)
 
-<ins>Reading</ins>
-- Calibre - https://calibre-ebook.com/download 
-- YACReader - https://www.yacreader.com/
+Optimization  
+\-Optimizer=[https://github.com/hellzerg/optimizer](<https://github.com/hellzerg/optimizer>)  
+\-SophiApp=[https://github.com/Sophia-Community/SophiApp](<https://github.com/Sophia-Community/SophiApp>)
 
-<ins>Screenshot Capture</ins>
-- Spectacle - https://apps.kde.org/spectacle/
+Password Manager  
+\-Bitwarden=[https://bitwarden.com](<https://bitwarden.com>)
 
-<ins>Service/Workspace Manager</ins>
-- Ferdium - https://ferdium.org/
+Post-processing Injector  
+\-ReShade=[https://reshade.me](<https://reshade.me>)
 
-<ins>System Cleaner</ins>
-- Czkawka - https://github.com/qarmin/czkawka 
+Reading  
+\-Calibre=[https://calibre-ebook.com/download](<https://calibre-ebook.com/download>)  
+\-YACReader=[https://www.yacreader.com/](<https://www.yacreader.com/>)
 
-<ins>System Information</ins>
-- Fastfetch - https://github.com/LinusDierheimer/fastfetch
+Screenshot Capture  
+\-Flameshot=[https://flameshot.org/ [Not ready yet]](<https://flameshot.org/>)  
+\-ShareX=[https://getsharex.com/](<https://getsharex.com/>)  
+\-Spectacle=[https://apps.kde.org/spectacle/](<https://apps.kde.org/spectacle/>) [Needs more research]
 
-<ins>Task Management</ins>
-- Anytype - https://github.com/anyproto/anytype-ts
+Service/Workspace Manager  
+\-Ferdium=[https://ferdium.org/](<https://ferdium.org/>)
 
-<ins>Text Editor</ins>
-- Kate - https://kate-editor.org/
+System Cleaner  
+\-Czkawka=[https://github.com/qarmin/czkawka](<https://github.com/qarmin/czkawka>)
 
-<ins>Text Expander</ins>
-- Espanso - https://espanso.org/ 
+System Information  
+\-Fastfetch=[https://github.com/LinusDierheimer/fastfetch](<https://github.com/LinusDierheimer/fastfetch>)
 
-<ins>Torrent Client</ins>
-- qBittorrent - https://www.qbittorrent.org 
-- WebTorrent - https://webtorrent.io/
+Task Management  
+\-Anytype=[https://github.com/anyproto/anytype-ts](<https://github.com/anyproto/anytype-ts>)
 
-<ins>Video, Audio, Image Converter</ins>
-- Shutter Encoder - https://www.shutterencoder.com/en/ 
+Text Editor  
+\-Kate=[https://kate-editor.org/](<https://kate-editor.org/>)
 
-<ins>Video Editing</ins>
-- Kdenlive - https://kdenlive.org/en/ 
-- LosslessCut - https://mifi.no/losslesscut/ 
+Text Expander  
+\-Espanso=[https://espanso.org/](<https://espanso.org/>)
 
-<ins>Video Player</ins>
-- QMPlay2 - https://github.com/zaps166/QMPlay2
+Torrent Client  
+\-qBittorrent=[https://www.qbittorrent.org](<https://www.qbittorrent.org>)  
+\-WebTorrent=[https://webtorrent.io/ [Needs more research]](<https://webtorrent.io/>)
 
-<ins>Video Recording</ins>
-- OBS Studio - https://obsproject.com 
+Uninstaller  
+\-BCUninstaller=[https://www.bcuninstaller.com](<https://www.bcuninstaller.com>)
 
-<ins>Video Transcoder</ins>
-- HandBrake - https://handbrake.fr 
+Video, Audio, Image Converter  
+\-Shutter Encoder=[https://www.shutterencoder.com/en/](<https://www.shutterencoder.com/en/>)
 
-<ins>VPN Client</ins>
-- ProtonVPN - https://protonvpn.com/free-vpn/ 
+Video Editing  
+\-Kdenlive=[https://kdenlive.org/en/](<https://kdenlive.org/en/>)  
+\-LosslessCut=[https://mifi.no/losslesscut/](<https://mifi.no/losslesscut/>)
 
-## FCSS - Free Closed Source Software
-<ins>Game Engine Series</ins>
-- Unreal Engine - https://www.unrealengine.com/en-US/ 
+Video Player  
+\-QMPlay2=[https://github.com/zaps166/QMPlay2](<https://github.com/zaps166/QMPlay2>)
 
-<ins>Game Library</ins>
-- Steam - https://store.steampowered.com/
+Video Recording  
+\-OBS Studio=[https://obsproject.com](<https://obsproject.com>)
 
-<ins>Instant Messengers</ins>
-- Discord - https://discord.com
+Video Transcoder  
+\-HandBrake=[https://handbrake.fr](<https://handbrake.fr>)
 
-<ins>Music Streaming</ins>
-- Spotify - https://open.spotify.com 
+VPN Client  
+\-ProtonVPN=[https://protonvpn.com/free-vpn/](<https://protonvpn.com/free-vpn/>)  
+
+
+FCSS - Free Closed Source Software
+
+File Manager  
+\-Directory Opus=[https://www.gpsoft.com.au/ [until Spacedrive release]](<https://www.gpsoft.com.au/>)
+
+File Search  
+\-Everything=[https://www.voidtools.com [until open-source/FSearch Win11]](<https://www.voidtools.com>)
+
+Game Engine Series  
+\-Unreal Engine=[https://www.unrealengine.com/en-US/](<https://www.unrealengine.com/en-US/>)
+
+Game Library/Storefront  
+\-Steam=[https://store.steampowered.com/](<https://store.steampowered.com/>)
+
+Instant Messengers  
+\-Discord=[https://discord.com](<https://discord.com>)  
+\-WhatsApp=[https://www.whatsapp.com/](<https://www.whatsapp.com/>)
+
+Music Streaming  
+\-Spotify=[https://open.spotify.com](<https://open.spotify.com>)
+
+Reverse Engineering  
+\-HxD Hex Editor=[https://mh-nexus.de/en/hxd](<https://mh-nexus.de/en/hxd>)  
 
 
